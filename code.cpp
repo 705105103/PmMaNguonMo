@@ -4,10 +4,7 @@
  {
     // ma lenh sap xep day so
  }
-int tim_max(int* a,int n){
- //ma lenh tim ham max
-}
  int main(){
-    cout<<"Phien ban 2">>
+    cout<<"Phien ban thu nhat">>
     return 0;
  }
